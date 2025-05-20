@@ -8,8 +8,8 @@ wandb.init(
     resume="never",
     reinit=True,
 )
-vanilla_predictions = pd.read_csv("predictions_vanilla.csv")
-attention_predictions = pd.read_csv("predictions_attention.csv")
+vanilla_predictions = pd.read_csv("predictions_vanilla/predictions_vanilla.csv")
+attention_predictions = pd.read_csv("predictions_attention/predictions_attention.csv")
 comparison_df = vanilla_predictions.copy()
 comparison_df['Vanilla_prediction'] = comparison_df['Predicted']
 comparison_df['Attention_prediction'] = attention_predictions['Predicted']
