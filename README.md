@@ -114,4 +114,4 @@ https://github.com/Harsh-trivs/da6401_assignment3.git
 
 # Wandb Link :
 
-https://api.wandb.ai/links/harshtrivs-indian-institute-of-technology-madras/3zholpev
+https://api.wandb.ai/links/harshtrivs-indian-institute-of-technology-madras/8nkql3w7
