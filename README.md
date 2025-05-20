@@ -114,4 +114,4 @@ https://github.com/Harsh-trivs/da6401_assignment3.git
 
 # Wandb Link :
 
-https://wandb.ai/harshtrivs-indian-institute-of-technology-madras/dakshina_transliteration/reports/Assignment-3--VmlldzoxMjgzOTY0Ng?accessToken=vp3yeafg77ma9qpujb7fnd7ugvpp2m78hzqsnhr7xuyp1tja38c5dncr3l5wlsge
+https://api.wandb.ai/links/harshtrivs-indian-institute-of-technology-madras/3zholpev
